@@ -8,7 +8,8 @@ Small project which attempts to provide solution which is able to analyze local 
 * **storage** - keeps local vector database for embedded content from documents
 
 ## How to use
-Simply run ```python main.py```
+Simply run ```python main.py``` 
+Note: the ```requirements.txt``` file was generated from virtualenv's ```pip freeze > requirements.txt`````` 
 
 ## Known problems and issues
-This project is intended to be tutorial project to help better understand how to implement LLM solutions. The performence is not great and only txt files are supported.
+This project is intended to be tutorial project to help better understand how to implement LLM solutions. The performance is not great and only txt files are supported.
